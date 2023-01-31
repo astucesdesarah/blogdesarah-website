@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+	<meta charset="utf-8">
+	<title>Dead ça en 2K23</title>
+	<link rel="stylesheet" href="style.css">
+</heard>
+
+	<body>
+
+		<div id="carte">
+
+		<a href="https://www.youtube.com/watch?v=Xy2k1OOpCmY&t=1s"><h1> Clique ici pour mieux me connaitre</a>
+
+		</div>
+	
+
+
+	</body>
+
+
+</html>
